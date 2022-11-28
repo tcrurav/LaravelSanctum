@@ -33,15 +33,27 @@ And now just try all the POSTMAN requests:
 
 ![screenshots](https://github.com/tcrurav/LaravelSanctum/blob/master/screenshots/01-register.png)
 
+__________________________________________________________
+
 ![screenshots](https://github.com/tcrurav/LaravelSanctum/blob/master/screenshots/02-login.png)
+
+__________________________________________________________
 
 ![screenshots](https://github.com/tcrurav/LaravelSanctum/blob/master/screenshots/03-create.png)
 
+__________________________________________________________
+
 ![screenshots](https://github.com/tcrurav/LaravelSanctum/blob/master/screenshots/04-read.png)
+
+__________________________________________________________
 
 ![screenshots](https://github.com/tcrurav/LaravelSanctum/blob/master/screenshots/05-read-one.png)
 
+__________________________________________________________
+
 ![screenshots](https://github.com/tcrurav/LaravelSanctum/blob/master/screenshots/06-update.png)
+
+__________________________________________________________
 
 ![screenshots](https://github.com/tcrurav/LaravelSanctum/blob/master/screenshots/07-delete.png)
 
