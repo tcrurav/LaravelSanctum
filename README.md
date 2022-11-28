@@ -78,5 +78,6 @@ All you need is... some time and...
 ## Acknowledgments
 
 * https://www.itsolutionstuff.com/post/laravel-9-rest-api-authentication-using-sanctum-tutorialexample.html. Laravel 9 REST API Authentication using Sanctum Tutorial
+* https://www.positronx.io/build-secure-php-rest-api-in-laravel-with-sanctum-auth/. Other tutorial possibility for Laravel 9 REST API Authentication using Sanctum.
 * https://www.getpostman.com/. Used to test the RESTFul end points of the project.
 * https://gist.github.com/PurpleBooth/109311bb0361f32d87a2. A very complete template for README.md files.
